@@ -20,4 +20,6 @@ A data analysis and visualization project covering a real-world dataset of the G
 
 - Created a dashboard about insights got in the previous phase for a visual understanding and analysis. Please refer to Power BI file.
 
+- You can find snapshot of visual analysis below. 
+
 ![Visual](https://github.com/ilkerklz/Analysis-of-Playstore-Apps/blob/db5c20b561a96601a30b08ce1e535ef46f81f36a/Playstore-Visual-Analysis.png "Snapshot of Visual Analysis of Playstore Apps")
